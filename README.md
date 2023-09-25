@@ -1,9 +1,6 @@
-# Instagram Home Page Clone
-# İnstagram Ana Sayfa Klonu
+# I cloned instagram Home Page with Bootstrap
 
 ### Bootstrap ile instagram Ana Sayfasını klonladım
 
---- 
-## Instagram Ana sayfa
 
 ![anasayfa](images/gorsel1.png)
